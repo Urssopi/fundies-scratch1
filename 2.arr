@@ -14,3 +14,5 @@ rotate(67, rectangle(10, 50, "solid", "red"))
 
 #Stop Sign 
 overlay(text("STOP", 50, "white"),(regular-polygon(60, 8, "solid","red")))
+
+overlay(circle(20, "solid", "red"), rectangle(40, 100, "solid", "black"))
